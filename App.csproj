@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="csharpLibrary\App.DAL\" />
+    <Folder Include="App.console\" />
+    <Folder Include="csharpLibrary\App.Entities\" />
+  </ItemGroup>
+
+</Project>
